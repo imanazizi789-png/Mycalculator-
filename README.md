@@ -1,4 +1,4 @@
-# Mycalculator-
+# Mycalculator
 import streamlit as st
 
 st.title("ماشین‌حساب ساده")
